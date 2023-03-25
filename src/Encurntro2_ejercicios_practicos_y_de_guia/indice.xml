@@ -20,8 +20,7 @@ equivalente en grados Fahrenheit. La fórmula correspondiente es: F = 32
 5. Escribir un programa que lea un número entero por teclado y muestre
 por pantalla el doble, el triple y la raíz cuadrada de ese número.
 Nota: investigar la función Math.sqrt().
-
-SEGUNDO CAMBIO HECHO EN ESTE CODIGO ......
+HOLA ES PRUEBA DE COMMIT
 -->
 
 
